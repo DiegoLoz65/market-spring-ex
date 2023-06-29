@@ -16,7 +16,7 @@ public class Producto {
     @Column(name = "id_categoria")
     private Integer idCategoria;
 
-    @Column(name = "condigo_barras")
+    @Column(name = "codigo_barras")
     private String codigoBarras;
 
     @Column(name = "precio_venta")
